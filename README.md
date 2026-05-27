@@ -140,7 +140,7 @@ You can enter custom values and get a real-time closure prediction.
 
 ## 🧑‍💻 Author
 
-**Aarush** — [GitHub @029507](https://github.com/029507)
+ [GitHub @029507](https://github.com/029507)
 
 ---
 
