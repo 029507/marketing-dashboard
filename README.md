@@ -137,13 +137,3 @@ You can enter custom values and get a real-time closure prediction.
 - **Prediction** — Input campaign parameters and predict expected closures.
 
 ---
-
-## 🧑‍💻 Author
-
- [GitHub @029507](https://github.com/029507)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
